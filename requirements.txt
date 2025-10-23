@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+plotly
+yfinance
+tqdm
+praw
+transformers
+torch
+statsmodels
+openpyxl
