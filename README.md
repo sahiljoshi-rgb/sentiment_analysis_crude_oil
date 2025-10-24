@@ -64,5 +64,4 @@ MIT - feel free to fork, adapt, and build on it.
 ## 🙋‍♂️ Author
 
 **Sahil** - MSc Financial Engineering  
-
-Let me know if you want to include a sample plot, add a badge (e.g., MIT license, Python version), or link to a Colab version.
+Linkedin: https://www.linkedin.com/in/sahil-joshi-90338a212/
